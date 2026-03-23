@@ -1,0 +1,5 @@
+id_tipo_seguro,tipo,categoria,riesgo_base,motivo
+1,Pyme,Familiar,,No cuenta con un riesgo base
+4,Industrial,Personal,,No cuenta con un riesgo base
+9,Accidentes,,5.68,La categoria se encuentra vacio
+12,Agrícola,,,"La categoria se encuentra vacio, No cuenta con un riesgo base"
